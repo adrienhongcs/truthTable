@@ -5,7 +5,7 @@ print "<html>"
 print "<head><title>My First CGI Program</title></head>"
 print "<body>"
 print "<p> It works!!! </p>"
-for i in range(5):
+for i in range(4):
     print "<h1>Hello World!"
 print "</body>"
 print "</html>"
