@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+* {
+    font-family: Caveat;
+    box-sizing: border-box;
+    background-color: beige;
+}
+
+html, body{
+    margin:10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.main{
+        border-style: solid;
+        border-color: black;
+        padding: 50px;
+        text-align: center;
+        font-size: 25px;
+}
+
+.main table{
+	background-color: brown;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.main table tr th {
+	padding: 0px 20px;
+}
+
+.main input {
+        font-size:20px;
+        color: brown;
+        border-color: brown;
+        border-width: 5px;
+        padding: 5px;
+        color: black;
+}
+
+.main ul {
+        text-align: left;
+}
+
+.outside {
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+.outside button{
+	color: black;
+	padding: 0px 15px;
+	font-size: 20px;
+	border-color: brown;
+        border-width: 5px;
+}
+
+.outside h2 {
+        line-height: 2px;
+}
+
+.outside ul{
+    text-align: right;
+    list-style-position: inside;
+    line-height: 25px;
+}
+
+.outside ul li a{
+        text-decoration: none;
+        color: brown;
+}
+
+.outside ul li a:hover{
+        background-color: white;
+}
+
