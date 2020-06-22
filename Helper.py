@@ -47,7 +47,7 @@ def evaluate(x,op,y):
 
 def error(string):
     '''
-    prints the error and exits the program
+    prints the error and returns false
     '''
     print(string)
     return False
