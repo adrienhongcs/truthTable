@@ -6,6 +6,8 @@ This website takes as input a boolean expression and outputs a truth table with 
 
 key concepts: in to post-fix expression, operators precedence, stack algorithms
 
+possible future features: highlighting where in the expression did the error occur
+
 index.html: creates the content of the main page. 
 
 result.html: creates the content of the result page.
