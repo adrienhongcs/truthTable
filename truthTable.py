@@ -10,8 +10,6 @@ class TruthTable(object):
     Instance of TruthTable has rows, columns, and a table containing the values of the truthTable
     The last column represents the output of a given boolean expression, the others represent the boolean value of a variable
     '''
-
-
     def __init__(self, numOfVar):
         '''
         Constructor
