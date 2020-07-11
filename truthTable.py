@@ -29,6 +29,7 @@ class TruthTable(object):
             table.append(row)
         return table 
     
+    # O(n*2^n)
     def setTable(self,numOfVar):
         '''
         sets the values of all the columns representing the value of a variable
